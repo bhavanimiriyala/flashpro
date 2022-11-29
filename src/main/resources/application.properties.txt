@@ -1,0 +1,6 @@
+server.port=8080
+spring.cloud.gcp.config.enabled=true
+bucketname=mss-gcp-trainbucket
+subdirectory=media
+spring.cloud.gcp.credentials.location=classpath:key.json
+

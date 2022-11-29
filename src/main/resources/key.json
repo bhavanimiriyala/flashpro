@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "gcp-bucket-accessing",
+  "private_key_id": "25e39635ef42c46102bc153311a888d121c5cbd4",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCmgjNworDgRf50\nU444mfUKvGum3C2/QNJaX7+Bmn6tyrFNfUboBKOjcNT597Rvj6golbQWOwholdA/\nqFVn02rzgbyhntt5UL2Ai0+4Di5Hol0xamsPfukN/FviBa4HJ0XuegYPvoWOmMKS\nJIbQ66l28FDJkcNzjIXxdq3v+1ET9EnMiGBWeCbpy1pVakSHwLwSNzyh/8yrN1ZG\n2hzhssyfT+SoB4UpMHfeQrhgVlilkAslE9DaDv0whf2KSfudfRupigGeoHNvLaWF\n/qPpzDZwQVjxVBTHBDC71bieiGMPjh+X5zIKVdrov66U+R3NQzINmbwgX+GmKSAF\nTlp9UPIpAgMBAAECggEAFSAx3JmXrWzUAvhS9BV8hJcxZWNMHpbf2X2Kc6whZHVy\nF23MoEVuaZ84NlraNslYQYX06lklEPfpCxqVc23chPax8yOPnw3CbVu/io+qCYat\nIkbpPHcSpKafFcc4tEmkUsSCnl7C3Tu+fAJMZJdx0dhdt6VZ0gBDQkaXfPo66DgC\n/Czyxyxx/Y2ND7sctdH2RBo4Bwm9EfyuNZtmxlAVGl9SY83hIFwEWVEi3LiZBk6b\ni+J0X4mygbU+MJG2fYkUbVIJtwBWjyXWscbrl7dZl1ahQzt1GcXk4vVrRVqZtQwN\nviFY3fd7iGn4gn7rpoFAMrSrl57wumUw5+JQK+YHXQKBgQDQ56FJ29eoBNvlMo63\ndPywqh05BcohFoVWQx4kvp3DChnb+UsZqIi/BHvHcVRVcTpWYBA+SBUuvW1cN8Qo\n8k7CBw1fOP0ZfrIftc3rSAKEsG8oU427Ugv0cyNb/U/FmXzRUeGdSK+tjwbz2wxn\nDxXBBEfYfAc1zAEwc/oR5Hx0HwKBgQDMC8omFarGE1i7kd9ykTC4/GQln2s07vEb\n3l6zlODHIQFNRhSJW/uJBu2DPceN79fpdok20rB/3egUwFh4g7lzRMEykyQG2+9R\n+oEofrjvtC0uEK7o485AYh40RieuEQ93B+OvEf6NqF5micpJ5ShmyRHnNFL+4FjJ\nY3rEO+gQtwKBgGB4Fos88kGsvL8CsdUWOPp8FDKY8daFx90l8W2WeNPwfjCO1pdq\ntHtBXsejFga+2um4QsgAEYgcAbxsJDGkc6o2B37JmleDok3ybr0P69nKgApnSzQN\nl2ezI8j/GS9uyaz/2uf/AOFtAxDpPrj4xlrz1xmpbMrzAjmV1Q0eLjqRAoGBAItJ\nTP/8cGvwDvVTmYW6iNjuKWrpTSSAK4SLonfSHDKyXBIk0aYGbUlXulCJnqxMWkYb\nTYVoA2X11BQ+TOZPfQurlnpwqPoprk92wi4jexjeFK1KZCvEPioDEH08mp+fM8Bc\nWVdL4ElQ8sfqLXWOAatQfHEobbNg8BrhVo+YGU03AoGABE2KaS6d7fSUFf7kwJhe\nRGui6PyIYr4gUkMoCVn2fEgs55QWrAM4UlVWNwbOjkc/yuHFKRUm2EsYh9RhLDRB\n4YuYGhE/4wVKxqzEU0s+NXWEi4aHWbbXkWjpz5Wbmhp/wssfwhKM/nmpJH25+gnR\nTZqovJ9sKDUhPtZfSdJVr8Q=\n-----END PRIVATE KEY-----\n",
+  "client_email": "mssgcp@gcp-bucket-accessing.iam.gserviceaccount.com",
+  "client_id": "105595285197498747467",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/mssgcp%40gcp-bucket-accessing.iam.gserviceaccount.com"
+}
